@@ -7,10 +7,10 @@ I build **systems software**, **embedded automation**, and **performance tooling
 ### Connect
 
 <p align="left">
-  <a href="https://personal-portfolio-otfvxqghf-samiur-rahmans-projects.vercel.app">
+  <a href="https://samiur.dev">
     <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://personal-portfolio-otfvxqghf-samiur-rahmans-projects.vercel.app/Samiur_Rahman_Resume.pdf">
+  <a href="https://samiur.dev/Samiur_Rahman_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-b91c1c?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/samiur-rahman-1a09b6271/">

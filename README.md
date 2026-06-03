@@ -4,9 +4,22 @@
 
 I build **systems software**, **embedded automation**, and **performance tooling** — from multi-level cache simulators to GPU pipelines and MCP-based test infrastructure.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-samiurrahman.com-2563eb?style=flat-square)](https://personal-portfolio-otfvxqghf-samiur-rahmans-projects.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samiur--Rahman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiur-rahman-1a09b6271/)
-[![Email](https://img.shields.io/badge/Email-srahman96@gatech.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srahman96@gatech.edu)
+### Connect
+
+<p align="left">
+  <a href="https://personal-portfolio-otfvxqghf-samiur-rahmans-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://personal-portfolio-otfvxqghf-samiur-rahmans-projects.vercel.app/Samiur_Rahman_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-b91c1c?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/samiur-rahman-1a09b6271/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:srahman96@gatech.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 

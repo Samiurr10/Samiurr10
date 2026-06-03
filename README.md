@@ -5,7 +5,7 @@
 I build **systems software**, **embedded automation**, and **performance tooling** — from multi-level cache simulators to GPU pipelines and MCP-based test infrastructure.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samiurrahman.com-2563eb?style=flat-square)](https://personal-portfolio-otfvxqghf-samiur-rahmans-projects.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samiur--Rahman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Samiur-Rahman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samiur--Rahman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiur-rahman-1a09b6271/)
 [![Email](https://img.shields.io/badge/Email-srahman96@gatech.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srahman96@gatech.edu)
 
 ---
@@ -27,11 +27,9 @@ I build **systems software**, **embedded automation**, and **performance tooling
 |---------|-------------|------|
 | **Cache Simulator** | Configurable L1, victim, and L2 cache; trace-driven hit/miss/AMAT stats | [`Cache-Simulator`](https://github.com/Samiurr10/Cache-Simulator) |
 | **GPU Image Filter Engine** | CUDA convolution pipeline across 10,000+ threads | [`ECE-4122-final-project`](https://github.com/Samiurr10/ECE-4122-final-project) |
-| **Memory Allocator** | Custom `malloc` with slab + buddy allocators | *In progress* |
-| **Binary Arcade Game** | Retro game over I2C, UART, SPI + custom FlashIAP | *In progress* |
+| **Memory Allocator** | Custom `malloc` with slab + buddy allocators | — |
+| **Binary Arcade Game** | Retro game over I2C, UART, SPI + custom FlashIAP | — |
 | **Portfolio** | Projects, experience, AI assistant | [`Personal-Portfolio`](https://github.com/Samiurr10/Personal-Portfolio) |
-
-> Renaming `ECE-4122-final-project` → `gpu-image-filter-engine` and adding dedicated repos for the allocator & arcade game — stay tuned.
 
 ---
 

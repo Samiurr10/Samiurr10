@@ -42,4 +42,4 @@ I build **systems software**, **embedded automation**, and **performance tooling
 | **GPU Image Filter Engine** | CUDA convolution pipeline across 10,000+ threads | [`ECE-4122-final-project`](https://github.com/Samiurr10/ECE-4122-final-project) |
 | **Memory Allocator** | Custom `malloc` with slab + buddy allocators | — |
 | **Binary Arcade Game** | Retro game over I2C, UART, SPI + custom FlashIAP | — |
-| **Portfolio** | Projects, experience, AI assistant | [`Personal-Portfolio`](https://github.com/Samiurr10/Personal-Portfolio) |
+| **Portfolio** | Projects, experience, AI assistant | [`samiur.dev`](https://github.com/Samiurr10/Personal-Portfolio) |

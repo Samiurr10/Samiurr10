@@ -40,7 +40,7 @@ I build **systems software**, **embedded automation**, and **performance tooling
 |---------|-------------|------|
 | **Cache Simulator** | Configurable L1, victim, and L2 cache; trace-driven hit/miss/AMAT stats | [`Cache-Simulator`](https://github.com/Samiurr10/Cache-Simulator) |
 | **GPU Image Filter Engine** | CUDA convolution pipeline across 10,000+ threads | [`CUDA Image Filtering`](https://github.com/Samiurr10/ECE-4122-final-project) |
-| **AI Portfolio Chatbot** | Conversational assistant for portfolio Q&A, project discovery, and resume context | [`samiur.dev`](https://github.com/Samiurr10/samiur.dev) |
+| **Personal AI Chatbot** | Conversational assistant about Samiur | [`personal-ai-chatbot`](https://github.com/Samiurr10/personal-ai-chatbot) |
 | **Memory Allocator** | Custom `malloc` with slab + buddy allocators | [`memory-allocator-slab-buddy`](https://github.com/Samiurr10/memory-allocator-slab-buddy) |
 | **Binary Arcade Game** | Retro game over I2C, UART, SPI + custom FlashIAP | [`Binary-Arcade-Game`](https://github.com/Samiurr10/Binary-Arcade-Game) |
 | **Portfolio** | Personal site for projects, experience, and contact links | [`samiur.dev`](https://github.com/Samiurr10/samiur.dev) |

@@ -2,7 +2,7 @@
 
 **Computer Engineering @ Georgia Tech** · Distributed Systems & Computing Hardware
 
-I build **systems software**, **embedded automation**, and **performance tooling** — from multi-level cache simulators to GPU pipelines and MCP-based test infrastructure.
+I build **systems software**, **embedded automation**, and **performance tooling** 
 
 ### Connect
 
